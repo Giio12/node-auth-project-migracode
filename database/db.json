@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": 0,
+        "name": "giomar",
+        "email": "toiigmar@gmail.com",
+        "password": "$2b$10$BiufCGQakkARZGElcpaykOLrvELfSIvYudqNZ6l8ELHS4bps2Qx6m"
+    },
+    {
+        "id": 1,
+        "name": "anita",
+        "email": "acs@gmail.com",
+        "password": "$2b$10$Rtbfp4XWVbS.70sycHDe0.jW4.TYxGvI5yT8Xbj7UK92po3U96.im"
+    }
+]
