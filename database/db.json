@@ -10,5 +10,29 @@
         "name": "anita",
         "email": "acs@gmail.com",
         "password": "$2b$10$Rtbfp4XWVbS.70sycHDe0.jW4.TYxGvI5yT8Xbj7UK92po3U96.im"
+    },
+    {
+        "id": 2,
+        "name": "",
+        "email": "",
+        "password": "$2b$10$bb2qpqUio9CvMd/L95ZKN.GF.a6jkWMauqKASL5ebI1mGZYm.uMOK"
+    },
+    {
+        "id": 3,
+        "name": "giovanna",
+        "email": "girosome_1@hotmail.com",
+        "password": "$2b$10$pTIcbTYyGuzvsJoSzC.OXuHcEIGgGn7CsKSI9kgvjUWacOQZLBXrC"
+    },
+    {
+        "id": 4,
+        "name": "nay",
+        "email": "nay@gmail.com",
+        "password": "$2b$10$fm4uW8LzgVROZaPSbglmreqVksNn3EltnhdBDj49IMsOXjMip9w0y"
+    },
+    {
+        "id": 5,
+        "name": "de",
+        "email": "dad@gmail.com",
+        "password": "$2b$10$KJBd/HN0mJDUH5mSTcj.ROfN0SZOzKpfJwelrX/m5YiWzYGjK4qWq"
     }
 ]
